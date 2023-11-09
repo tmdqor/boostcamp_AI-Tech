@@ -26,7 +26,7 @@
 ```
 conda install jupyter
 ```
-* 'jupyter notebook'을 입력시 실행
+* `jupyter notebook`을 입력시 실행
 
 ## Google Colab
 * 구글이 개발한 클라우드 기반의 jupyter notebook
