@@ -1,7 +1,23 @@
 # AI tech 6기 
 
+## In Retrospect
+  * [Retrospect : Week 1]()
 
 ## Week 1
 * Python
-  * [파이썬 AI 개발 환경 준비하기](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/Python/pythoninstall.md)
-  * [파이썬 기초문법]()
+  * 파이썬 AI 개발 환경 준비하기
+  * 파이썬 기초문법
+  * 객체 지향 프로그래밍
+  * 파이썬으로 데이터 다루기
+  * Numpy
+  * Pandas
+* AI Math
+  * [벡터]()
+  * [행렬]()
+  * [경사하강법]()
+  * [딥러닝 학습방법]()
+  * [확률론]()
+  * [통계학]()
+  * [베이즈통계학]()
+  * [CNN의 기초]()
+  * [RNN의 기초]()
