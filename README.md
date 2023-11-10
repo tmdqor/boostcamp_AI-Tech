@@ -1,7 +1,7 @@
 # AI tech 6기 
 
 ## In Retrospect
-  * [Retrospect : Week 1]()
+  * [Retrospect : Week 1](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week1.md)
 
 ## Week 1
 ### Python
