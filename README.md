@@ -2,6 +2,7 @@
 
 ## In Retrospect
   * [Retrospect : Week 1](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week1.md)
+  * [Retrospect : Week 2](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week2.md)
 
 ## Week 1
 ### Python
