@@ -26,12 +26,16 @@
 
 
 ## Wed - Day 17
+- **Peer-Session**  
+    - transformer에서 encoder 부분 코드 해석
+    - NADE와 Autoregressive Model 차이
+    - Implicit Method와 Explicit Method 차이
 - **Fact**  
-: 
+: 8, 9 강 강의를 학습하였다. transformer 실습을 통해 code 해석을 하였다.
 - **Feeling**  
-: 
+: transformer 까지는 강의가 어느정도 이해가 됐는데 Generative Models 전반적인 이해가 부족하다. 특히 9강에서 강사님의 설명에 영어의 비율이 올라가면서 이해력이 뚝 떨어졌다. 아직 익숙하지 않은 용어들로 설명하시니 너무 힘들었다.ㅜ 이 분야에서 다 쓰는 용어들이지만 어우.. 벅찬 하루다. 익숙해져야지..
 - **Future Plan & Finding**  
-: 
+: transformer와 이번주 실습에 나온 모든 code 복습을 하면서 정리해야겠다. 그 후 심화과제도 풀어야겠다.
 
 
 ## Thu - Day 18
