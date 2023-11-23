@@ -39,12 +39,20 @@
 
 
 ## Thu - Day 18
+- **Peer-Session**  
+    - 기본과제 공부하며 분석한 코드 해석 공유
+    - masked_fill(mask, value) 함수 조사
+        - mask (*BoolTensor*) – the boolean mask
+        - value (float) – the value to fill in with
+    - Multi-Head Attention 이 어떻게 Transformer가 다른 Position들에 대해 집중할 수 있게 해주는가?**
+    (Multi-headed attention (MHA) allows Transformer to focus on different positions.)
+
 - **Fact**  
-: 
+: 기본과제 1~5 수행과 코드 분석 및 해석
 - **Feeling**  
-: 
+: 과제의 코드를 하나하나씩 뜯어보며 이론과 비교하며 분석해보았다. RNN과 Transformer는 아직 완전히 이해가 되진 않았지만 계속 보다보면 늘겠지라는 마음으로 보고있다. 점점 피어세션의 질이 높아지는 것을 느낀다. 예전에는 시간이 남았는데 오늘은 오히려 조금 부족하다. 마지막 퀴즈도 풀었는데 코드 분석과 다르게 이론적으로는 많이 부족함을 느낀다.
 - **Future Plan & Finding**  
-: 
+: 심화과제까지 풀려고 했으나 기본과제 코드 분석이 생각보다 오래 걸렸다. 심화과제와 Position embedding 실습 코드도 봐야겠다. 코어타임 전에 Data Visualization 을 다 들어야놓고, 코어타임에는 온전히 코드에 집중해보겠다.
 
 
 ## Fri - Day 19
