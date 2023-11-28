@@ -14,13 +14,14 @@
 
 ## Tue - Day 23
 - **Peer-Session**  
-    -
+    - GitHub 특강 관련 질의
+    - 멘토링 과제 관련 질의
 - **Fact**  
-: 
+: GitHub 특강, Visualization 4강 학습
 - **Feeling**  
-: 
+: git을 쓰고 있었지만 개념적으로 불안한면이 있었는데 오늘 특강으로 git에 대한 개념이 확실히 잡힌 것 같다. 강사님이 복습하면 5분이면 된다고 하셨지만, 많이 쓰는 버전관리시스템인만큼 앞으로 나아갈 단단한 기본을 들고 가는 것 같다. 5시간짜리 강의였던만큼 힘은 들었지만 좋았다.
 - **Future Plan & Finding**  
-: 
+: NLP 이론 part2 수강, Data visualization 수강
 
 
 ## Wed - Day 24
