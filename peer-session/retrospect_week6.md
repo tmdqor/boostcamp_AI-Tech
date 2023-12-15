@@ -44,13 +44,13 @@
 
 ## Thu - Day 39
 - **Peer-Session**
-    - 
+    - 데이터 증강, 데이터 클리닝, 다양한 모델, 모델 앙상블 시도
 - **Fact**  
-: 
+: 7강 수강, 데이터 분석
 - **Feeling**  
-: 
+: 데이터 전처리를 위한 분석에만 매달려있는 건 아닌가 싶다. 문장간 유사도(cosine similarity, jaccard similarrity, seqence matcher)는 데이터의 ground truth(문맥간 유사도)를 보다 신뢰할 수 있는 데이터로 만들긴 어려운 것 같다. 다른 팀원들이 모델을 사용하여 성능을 높이고 있는데 너무 데이터 분석에만 매몰되지 않았나 싶다.
 - **Future Plan & Finding**  
-: 
+: 데이터 전처리 방법을 더 찾아보고 그 외의 성능을 높이는 방법을 생각해보자.
 
 
 ## Fri - Day 40
