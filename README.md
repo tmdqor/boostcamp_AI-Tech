@@ -7,6 +7,7 @@
   * [Retrospect : Week 4](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week4.md)
   * [Retrospect : Week 5](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week5.md)
   * [Retrospect : Week 6](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week6.md)
+  * [Retrospect : Week 7](https://github.com/tmdqor/boostcamp_AI-Tech/blob/main/peer-session/retrospect_week7.md)
 
 ## Week 1
 ### Python
